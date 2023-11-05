@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Run fake Api Server
 
-### `npm run json-server`
+### `npm run server`
 
 Open [http://localhost:3000/questions](http://localhost:3000/questions) to check data of /data/questions.json.
 
